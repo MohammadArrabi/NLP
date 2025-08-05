@@ -139,8 +139,8 @@ Each mission includes:
 ## 👤 Author<br>
 **Mohammad Arabi**<br>
 📧 mohammadarabe22@gmail.com<br>
-🔗 [LinkedIn](www.linkedin.com/in/mohammad-arabi-cs)<br>
-💻 [GitHub](https://github.com/MohammadArrabi)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-arabi-cs) <br>
+💻 [GitHub](https://www.github.com/MohammadArrabi)
 
 ## 💬 Contact<br>
 For any questions or further information about this project, feel free to contact me.
