@@ -68,7 +68,6 @@ Each mission includes:
 - Plot and analyze word rank vs. frequency.
 - Demonstrate power-law behavior statistically.
 
----
 
 ### 🔹 Second Mission – Stopword Filtering and Term Frequency
 > **Objective:** Improve word frequency analysis by filtering out non-informative stopwords.
@@ -77,7 +76,6 @@ Each mission includes:
 - Reanalyze corpus for meaningful keywords.
 - Show how stopwords distort term frequency analysis.
 
----
 
 ### 🔹 Third Mission – Named Entity Recognition (NER)
 > **Objective:** Recognize and extract named entities such as people, organizations, and locations.
@@ -86,7 +84,6 @@ Each mission includes:
 - Focus on Hebrew political discourse.
 - Manually or automatically evaluate the performance.
 
----
 
 ### 🔹 Fourth Mission – Masked Language Modeling
 > **Objective:** Predict missing words (masked tokens) in Hebrew sentences.
