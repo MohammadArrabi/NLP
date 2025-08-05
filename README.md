@@ -1,18 +1,18 @@
 # 🧠 Natural Language Processing (NLP) Project – Missions 1 to 4
 
-Welcome to this Natural Language Processing (NLP) project, a structured series of four analytical missions designed to demonstrate practical skills in text processing, information extraction, and language modeling using real-world political discourse data.
-Each mission is based on the **Knesset Protocols Corpus**, offering a realistic environment for performing NLP tasks ranging from frequency analysis to language modeling. This project showcases not only technical implementation but also the ability to deliver clean documentation and structured problem-solving — critical skills in any NLP or AI-related role.
+Welcome to this Natural Language Processing (NLP) project, a structured series of four analytical missions designed to demonstrate practical skills in text processing, information extraction, and language modeling using real-world political discourse data.<br>
+Each mission is based on the **Knesset Protocols Corpus**, offering a realistic environment for performing NLP tasks ranging from frequency analysis to language modeling. This project showcases not only technical implementation but also the ability to deliver clean documentation and structured problem-solving - critical skills in any NLP or AI-related role.
 
-📄 About This Project
+##📄 About This Project
 This project was created to apply and demonstrate core NLP techniques on real-world Hebrew text data from Israeli parliamentary protocols. Each mission presents a focused NLP challenge, encourages problem-solving, and results in documented solutions that follow best practices in code clarity and reporting.
 
-This repository is ideal for:
+**This repository is ideal for:**
 
-Showcasing your NLP and data science skills to employers
+- 📌 Showcasing your NLP and data science skills to employers
 
-Practicing and applying core NLP concepts
+- 📌 Practicing and applying core NLP concepts
 
-Learning how to build structured, professional projects for your portfolio
+- 📌 Learning how to build structured, professional projects for your portfolio
 
 ## 📁 Project Structure
 NLP-main/
@@ -133,11 +133,13 @@ Each mission includes:
 
 
 
-👤 Author
-Mohammad Arabi - mohammadarabe22@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/mohammad-arabi-cs)
+👤 Author<br>
+Mohammad Arabi<br>
+📧 mohammadarabe22@gmail.com<br>
+🔗 [LinkedIn](www.linkedin.com/in/mohammad-arabi-cs)<br>
 💻 [GitHub](https://github.com/MohammadArrabi)
 
-
-💬 Feel free to contact me for more information or questions about this project.
+<br>
+💬 Contact
+For any questions or further information about this project, feel free to contact me.
    
