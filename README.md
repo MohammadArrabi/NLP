@@ -17,6 +17,7 @@ This project was created to apply and demonstrate core NLP techniques on real-wo
 <br>
 
 ## 📁 Project Structure
+```
 NLP-main/
 │
 ├── First Mission/
@@ -50,7 +51,7 @@ NLP-main/
 │ └── The Solution/
 │ ├── My report.pdf
 │ └── ...
-
+```
 
 Each mission includes:
 - A **Requirements.pdf** explaining the task
