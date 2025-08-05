@@ -21,36 +21,39 @@ This project was created to apply and demonstrate core NLP techniques on real-wo
 NLP-main/
 │
 ├── First Mission/
-│ ├── Requirements.pdf
-│ ├── knesset_corpus.jsonl
-│ ├── knesset_protocols.zip
-│ └── The Solution/
-│ ├── My report.pdf
-│ ├── knesset_zipf_law.py
-│ └── processing_knesset_corpus.py
+│   ├── Requirements.pdf
+│   ├── knesset_corpus.jsonl
+│   ├── knesset_protocols.zip
+│   └── The Solution/
+│       ├── My report.pdf
+│       ├── knesset_zipf_law.py
+│       └── processing_knesset_corpus.py
 │
 ├── Second Mission/
-│ ├── Requirements.pdf
-│ ├── knesset_corpus.jsonl
-│ ├── stopwords.txt
-│ └── The Solution/
-│ ├── My report.pdf
-│ └── ...
+│   ├── Requirements.pdf
+│   ├── knesset_corpus.jsonl
+│   ├── stopwords.txt
+│   └── The Solution/
+│       ├── My report.pdf
+│       ├── frequent_words_analysis.py
+│       └── stopword_filtering.py
 │
 ├── Third Mission/
-│ ├── Requirements.pdf
-│ ├── knesset_corpus.jsonl
-│ └── The Solution/
-│ ├── My report.pdf
-│ └── ...
+│   ├── Requirements.pdf
+│   ├── knesset_corpus.jsonl
+│   └── The Solution/
+│       ├── My report.pdf
+│       ├── topic_modeling.py
+│       └── lda_visualization.ipynb
 │
 ├── Fourth Mission/
-│ ├── Requirements.pdf
-│ ├── knesset_corpus.jsonl
-│ ├── masked_sentences.txt
-│ └── The Solution/
-│ ├── My report.pdf
-│ └── ...
+│   ├── Requirements.pdf
+│   ├── knesset_corpus.jsonl
+│   ├── masked_sentences.txt
+│   └── The Solution/
+│       ├── My report.pdf
+│       ├── sentence_completion_model.py
+│       └── bert_masked_prediction.py
 ```
 
 Each mission includes:
