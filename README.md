@@ -3,7 +3,7 @@
 Welcome to this Natural Language Processing (NLP) project, a structured series of four analytical missions designed to demonstrate practical skills in text processing, information extraction, and language modeling using real-world political discourse data.<br>
 Each mission is based on the **Knesset Protocols Corpus**, offering a realistic environment for performing NLP tasks ranging from frequency analysis to language modeling. This project showcases not only technical implementation but also the ability to deliver clean documentation and structured problem-solving - critical skills in any NLP or AI-related role.
 
-##📄 About This Project
+## 📄 About This Project
 This project was created to apply and demonstrate core NLP techniques on real-world Hebrew text data from Israeli parliamentary protocols. Each mission presents a focused NLP challenge, encourages problem-solving, and results in documented solutions that follow best practices in code clarity and reporting.
 
 **This repository is ideal for:**
@@ -13,6 +13,8 @@ This project was created to apply and demonstrate core NLP techniques on real-wo
 - 📌 Practicing and applying core NLP concepts
 
 - 📌 Learning how to build structured, professional projects for your portfolio
+
+<br>
 
 ## 📁 Project Structure
 NLP-main/
